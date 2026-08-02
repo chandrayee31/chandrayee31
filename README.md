@@ -125,7 +125,7 @@ Retrieval-Augmented Generation (RAG ) system for intelligent QA over custom docu
 ---
 
 <div align="center">
-<i>"Turning raw data into actionable insights through intelligent systems."</i>
+<i>"I don't compete with AI. I decide what it's worth competing for."</i>
     
   
 
