@@ -54,68 +54,37 @@
 
 ### 🚀  Flagship Projects
 
-<table>
-<tr>
-    <td width="50%" align="center">
-      <h4>🤖 MultiAgent Insight Engine</h4>
-      <img src="https://github.com/chandrayee31/MultiAgent-Insight-Engine/raw/main/readme_docs/multiagent_architecture.gif" width="100%" alt="MultiAgent Architecture Demo"/>
-        
-  
+#### 🤖 MultiAgent Insight Engine
 
-      <p align="left">An AI-driven system orchestrating multiple specialized agents to collaboratively analyze business data and generate structured insights using FastAPI and Ollama.</p>
-      <div align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Multi--Agent%20AI-8e44ad?style=flat-square"/>
-      </div>
-        
+<img src="https://github.com/chandrayee31/MultiAgent-Insight-Engine/raw/main/readme_docs/multiagent_architecture.gif" width="100%" alt="MultiAgent Architecture Demo"/>
 
-      <a href="https://github.com/chandrayee31/MultiAgent-Insight-Engine">🔗 View Repository</a>
-    </td>
-    <td width="50%" align="center">
-      <h4>🧠 RetailRAG-AI</h4>
-      <img src="https://github.com/chandrayee31/RetailRAG-AI/raw/main/readme_docs/retailRAg.gif" width="100%" alt="RetailRAG-AI Demo"/>
-        
-  
+An AI-driven system orchestrating multiple specialized agents to collaboratively analyze business data and generate structured insights using FastAPI and Ollama.
 
-      <p align="left">Retrieval-Augmented Generation (RAG ) system for intelligent QA over custom documents, integrating FastAPI, ChromaDB, and a locally hosted LLM.</p>
-      <div align="left">
-        <img src="https://img.shields.io/badge/RAG-4b2e83?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ChromaDB-FF6C37?style=flat-square"/>
-        <img src="https://img.shields.io/badge/LLM-8e44ad?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      </div>
-        
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) ![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent%20AI-8e44ad?style=flat-square)
 
-      <a href="https://github.com/chandrayee31/RetailRAG-AI">🔗 View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📊 Customer Churn Prediction</h4>
-      <p>End-to-end ML system predicting customer churn for a telecom company. Combines automated EDA, predictive modeling, and real-time inference via a Dockerized REST API.</p>
-      <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        
-  
+🔗 [View Repository](https://github.com/chandrayee31/MultiAgent-Insight-Engine)
 
-      <a href="https://github.com/chandrayee31/Customer-Churn-Prediction">🔗 View Repository</a>
-    </td>
-    <td width="50%">
-      <h4>⚙️ RetailInsight Pipeline Engine</h4>
-      <p>End-to-end retail data engineering platform processing raw business data into actionable insights, handling data ingestion, transformation, and storage.</p>
-      <img src="https://img.shields.io/badge/Data%20Engineering-2d1b4e?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ETL%20Pipelines-009688?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        
-  
+---
 
-      <a href="https://github.com/chandrayee31/RetailInsight-Pipeline-Engine">🔗 View Repository</a>
-    </td>
-  </tr>
-</table>
+#### 🧠 RetailRAG-AI
+
+<img src="https://github.com/chandrayee31/RetailRAG-AI/raw/main/readme_docs/retailRAg.gif" width="100%" alt="RetailRAG-AI Demo"/>
+
+Retrieval-Augmented Generation (RAG ) system for intelligent QA over custom documents, integrating FastAPI, ChromaDB, and a locally hosted LLM.
+
+![RAG](https://img.shields.io/badge/RAG-4b2e83?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-8e44ad?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+🔗 [View Repository](https://github.com/chandrayee31/RetailRAG-AI)
+
+---
+
+#### 📊 Customer Churn Prediction              ⚙️ RetailInsight Pipeline Engine
+
+|  |  |
+| --- | --- |
+| End-to-end ML system predicting customer churn for a telecom company. Combines automated EDA, predictive modeling, and real-time inference via a Dockerized REST API. | End-to-end retail data engineering platform processing raw business data into actionable insights, handling data ingestion, transformation, and storage. |
+| ![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-2d1b4e?style=flat-square) ![ETL](https://img.shields.io/badge/ETL%20Pipelines-009688?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🔗 [View Repository](https://github.com/chandrayee31/Customer-Churn-Prediction) | 🔗 [View Repository](https://github.com/chandrayee31/RetailInsight-Pipeline-Engine) |
 
 ---
 
@@ -125,7 +94,7 @@
 | --- | --- |
 | 🔭 **Now** | Building robust AI/ML applications and scalable data pipelines |
 | 🤖 **Exploring** | Advanced Multi-Agent AI workflows and RAG architectures |
-| 🏗️ **Specialty** | End-to-end Python backend development (Data → Model → API ) |
+| 🏗️ **Specialty** | End-to-end Python backend development (Data → Model → API) |
 | 💬 **Talk To Me About** | Python, Machine Learning, Data Engineering, Agentic Systems |
 
 ---
