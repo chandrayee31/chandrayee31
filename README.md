@@ -7,6 +7,12 @@
   <a href="https://github.com/chandrayee31" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&authuser=4&user=gtWviZwAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Chandrayee_Kumar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://orcid.org/0009-0002-1648-2588" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0002--1648--2588-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=chandrayee31&color=b28dff&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>   
 
@@ -125,7 +131,7 @@ Retrieval-Augmented Generation (RAG ) system for intelligent QA over custom docu
 ---
 
 <div align="center">
-<i>"I don't compete with AI. I decide what it's worth competing for."</i>
+<i>"Turning raw data into actionable insights through intelligent systems."</i>
     
   
 
