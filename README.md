@@ -105,16 +105,18 @@ Retrieval-Augmented Generation (RAG ) system for intelligent QA over custom docu
 
 ---
 
-### 📊  GitHub Stats
+### 📊  GitHub Snapshot
 
 <div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=chandrayee31&show_icons=true&theme=radical&count_private=true&border_radius=12&hide_border=true&title_color=b28dff&icon_color=8e44ad" height="175" />
-  &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chandrayee31&layout=donut&theme=radical&border_radius=12&hide_border=true&title_color=b28dff" height="175" />
-</div>   
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chandrayee31&theme=radical&hide_border=true&border_radius=12&ring=b28dff&fire=8e44ad&currStreakLabel=b28dff" />
-</div>
+<img src="https://img.shields.io/badge/Contributions%20Last%20Year-150-8e44ad?style=for-the-badge&logo=github&logoColor=white" alt="150 contributions in the last year" />
+  <img src="https://img.shields.io/badge/Public%20Repositories-12-2d1b4e?style=for-the-badge&logo=github&logoColor=white" alt="12 public repositories" />
+    
+
+  <img src="https://img.shields.io/badge/Stars%20Earned-0-4b2e83?style=for-the-badge&logo=github&logoColor=white" alt="0 stars earned" />
+  <img src="https://img.shields.io/badge/Followers-0-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="0 followers" />
+</div> <p align="center">
+  <sub>Static profile snapshot as of August 11, 2026. Live contribution activity appears in GitHub’s native calendar and the snake animation below.</sub>
+</p>
 
 ---
 
