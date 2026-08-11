@@ -113,9 +113,9 @@ Retrieval-Augmented Generation (RAG ) system for intelligent QA over custom docu
     
 
   <img src="https://img.shields.io/badge/Stars%20Earned-0-4b2e83?style=for-the-badge&logo=github&logoColor=white" alt="0 stars earned" />
-  <img src="https://img.shields.io/badge/Followers-0-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="0 followers" />
+  <img src="https://img.shields.io/badge/Followers-0-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="1 followers" />
 </div> <p align="center">
-  <sub>Static profile snapshot as of August 11, 2026. Live contribution activity appears in GitHub’s native calendar and the snake animation below.</sub>
+  <!-- <sub>Static profile snapshot as of August 11, 2026. Live contribution activity appears in GitHub’s native calendar and the snake animation below.</sub> -->
 </p>
 
 ---
